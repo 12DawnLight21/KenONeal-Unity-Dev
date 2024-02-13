@@ -76,7 +76,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 899936488967fc34fb54606571f0ce87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pickupType: 2
   pickupPrefab: {fileID: 1804206099813350, guid: 4dd02b5f854b6c84990fbeb810abffe4, type: 3}
+  playNoise: {fileID: 8300000, guid: f5dde60c14378a04aaf0f69938369012, type: 3}
 --- !u!33 &2944688906311069083
 MeshFilter:
   m_ObjectHideFlags: 0
